@@ -1,0 +1,3 @@
+function statusChecker(array,type){
+    
+}
