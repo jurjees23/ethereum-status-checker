@@ -5,14 +5,14 @@
     `npm install ethereum-status-checker --save`
 
 # Code usage
-import {statusChecker} from 'ethereum-status-checker';
+    import {statusChecker} from 'ethereum-status-checker';
 
- statusChecker(["0x10b78142fac32faaa8839e90a657d8878d1f748cf8ce559b3591843b460fe848","0x10b78142fac32faaa8839e90a657d8878d1f748cf8ce559b3591843b460fe848"],"rinkeby")
-.then(result=>{
-    console.log("output",result)
-}).catch(err=>{
-    console.log("err",err)
-})
+    statusChecker(["0x10b78142fac32faaa8839e90a657d8878d1f748cf8ce559b3591843b460fe848","0x10b78142fac32faaa8839e90a657d8878d1f748cf8ce559b3591843b460fe848"],"rinkeby")
+    .then(result=>{
+        console.log("output",result)
+    }).catch(err=>{
+        console.log("err",err)
+    })
 
 ## Options
 
