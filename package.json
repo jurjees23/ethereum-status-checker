@@ -1,0 +1,29 @@
+{
+  "name": "ethereum-status-checker",
+  "version": "1.0.0",
+  "description": "A library to check the transaction status on ethereum network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurjees23/ethereum-status-checker.git"
+  },
+  "keywords": [
+    "Ethreum",
+    "Status",
+    "mainnet",
+    "transaction",
+    "hash"
+  ],
+  "author": "Jurjees Ahamed S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jurjees23/ethereum-status-checker/issues"
+  },
+  "homepage": "https://github.com/jurjees23/ethereum-status-checker#readme",
+  "dependencies": {
+    "web3": "^1.3.4"
+  }
+}
