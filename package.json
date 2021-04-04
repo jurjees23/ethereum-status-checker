@@ -1,6 +1,6 @@
 {
   "name": "ethereum-status-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to check the transaction status on ethereum network",
   "main": "index.js",
   "scripts": {
