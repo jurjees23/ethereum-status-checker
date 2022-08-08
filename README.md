@@ -23,7 +23,7 @@
 
     Status Checker needs two parameter first one is transaction array and another one is network type both of them are mandatory
 
-- *Network Type* - Ropsten,Rinkeby,Mainnet,Goreli,Kovan.
+- *Network Type* - ropsten,rinkeby,mainnet,goreli,kovan,polygon,mumbai.
 
 
 
